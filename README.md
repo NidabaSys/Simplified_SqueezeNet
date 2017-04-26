@@ -11,9 +11,10 @@ For any information , please contact us at contact@nidabasys.com
 
 If you find the network useful in your research, please consider citing:
 
-@article{SqueezeNet,
-  Author = {Hussein Al-barazanchi},
-  Title = {Simplified SqueezeNet},
-  Journal = {arXiv},
-  Year = {2017}
-}
+    @article{SqueezeNet,
+        Author = {Hussein Al-barazanchi},
+        Title = {Simplified SqueezeNet},
+        Journal = {arXiv},
+        Year = {2017}
+    }
+    
