@@ -1,0 +1,24 @@
+@article{SqueezeNet,
+    Author = {Hussein Al-barazanchi},
+    Title = {Simplified SqueezeNet},
+    Journal = {arXiv},
+    Year = {2017}
+}
+
+
+test_iter: 161
+test_interval: 9566
+base_lr: 0.01
+display: 20
+max_iter: 478300
+lr_policy: "step"
+gamma: 0.5
+momentum: 0.9
+weight_decay: 0.0001
+stepsize: 95660
+snapshot: 9566
+snapshot_prefix: "snapshot"
+solver_mode: GPU
+random_seed: 2016
+net: "train_val.prototxt"
+solver_type: SGD
