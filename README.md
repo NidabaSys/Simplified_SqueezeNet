@@ -2,7 +2,8 @@
 
 An improved version of SqueezeNet networks https://github.com/DeepScale/SqueezeNet
 
-Simplified SqueezeNet is SqueezeNet network with removing Fire/Expand layer of reception field 1.
+Simplified SqueezeNet is SqueezeNet network with removing Fire/Expand layer of reception field 1 and the concatenation layer.
+The suggested modification accelerated the training of SqueezeNet by more than 4 times.
 
 To understand the differences between the two networks, refer the the below links.
 
@@ -10,6 +11,7 @@ This link visualize the SqueezeNet network: http://ethereon.github.io/netscope/#
 
 This link visualize the Simplified SqueezeNet network: http://ethereon.github.io/netscope/#/gist/fd7f749c3cfe69a6859cc56225c10c0f
 
+The above directories contain the source files for training SqueezeNet and Simplified SqueezeNet on two large scale image datasets.
 
 Stay tuned for the technical report (coming soon)
 
