@@ -1,4 +1,4 @@
-                                    # Simplified_SqueezeNet
+# Simplified_SqueezeNet
 
 An improved version of SqueezeNet networks https://github.com/DeepScale/SqueezeNet
 
